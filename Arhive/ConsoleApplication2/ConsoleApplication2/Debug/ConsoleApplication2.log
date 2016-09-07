@@ -1,0 +1,13 @@
+﻿Build started 15/08/2015 21:35:58.
+     1>Project "D:\Documents\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Progam Files (D)\MS Visual Studio Express 2013 for desktop\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\ConsoleApplication2.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt ConsoleApplication2.cpp
+         ConsoleApplication2.cpp
+     1>d:\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\consoleapplication2.cpp(1): warning C4627: '#include <iostream>': skipped when looking for precompiled header use
+         d:\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\consoleapplication2.cpp(1): note: Add directive to 'stdafx.h' or rebuild precompiled header
+     1>d:\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\consoleapplication2.cpp(10): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+     1>Done Building Project "D:\Documents\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.07

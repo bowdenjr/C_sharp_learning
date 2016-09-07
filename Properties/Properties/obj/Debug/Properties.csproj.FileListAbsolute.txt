@@ -1,0 +1,5 @@
+d:\documents\visual studio 2015\Projects\Properties\Properties\bin\Debug\Properties.exe.config
+d:\documents\visual studio 2015\Projects\Properties\Properties\bin\Debug\Properties.exe
+d:\documents\visual studio 2015\Projects\Properties\Properties\bin\Debug\Properties.pdb
+d:\documents\visual studio 2015\Projects\Properties\Properties\obj\Debug\Properties.exe
+d:\documents\visual studio 2015\Projects\Properties\Properties\obj\Debug\Properties.pdb

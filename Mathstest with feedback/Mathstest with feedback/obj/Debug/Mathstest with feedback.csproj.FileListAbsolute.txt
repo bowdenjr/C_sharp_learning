@@ -1,0 +1,6 @@
+d:\documents\visual studio 2015\Projects\Mathstest with feedback\Mathstest with feedback\bin\Debug\Mathstest with feedback.exe.config
+d:\documents\visual studio 2015\Projects\Mathstest with feedback\Mathstest with feedback\bin\Debug\Mathstest with feedback.exe
+d:\documents\visual studio 2015\Projects\Mathstest with feedback\Mathstest with feedback\bin\Debug\Mathstest with feedback.pdb
+d:\documents\visual studio 2015\Projects\Mathstest with feedback\Mathstest with feedback\obj\Debug\Mathstest with feedback.exe
+d:\documents\visual studio 2015\Projects\Mathstest with feedback\Mathstest with feedback\obj\Debug\Mathstest with feedback.pdb
+d:\documents\visual studio 2015\Projects\Mathstest with feedback\Mathstest with feedback\obj\Debug\Mathstest with feedback.csprojResolveAssemblyReference.cache

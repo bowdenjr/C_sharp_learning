@@ -1,0 +1,5 @@
+d:\documents\visual studio 2015\Projects\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+d:\documents\visual studio 2015\Projects\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+d:\documents\visual studio 2015\Projects\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+d:\documents\visual studio 2015\Projects\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+d:\documents\visual studio 2015\Projects\Inheritance\Inheritance\obj\Debug\Inheritance.pdb

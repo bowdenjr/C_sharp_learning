@@ -1,0 +1,5 @@
+d:\documents\visual studio 2015\Projects\Methods1\Methods1\bin\Debug\Methods1.exe.config
+d:\documents\visual studio 2015\Projects\Methods1\Methods1\bin\Debug\Methods1.exe
+d:\documents\visual studio 2015\Projects\Methods1\Methods1\bin\Debug\Methods1.pdb
+d:\documents\visual studio 2015\Projects\Methods1\Methods1\obj\Debug\Methods1.exe
+d:\documents\visual studio 2015\Projects\Methods1\Methods1\obj\Debug\Methods1.pdb

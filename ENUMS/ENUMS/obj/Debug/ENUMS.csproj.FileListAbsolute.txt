@@ -1,0 +1,6 @@
+d:\documents\visual studio 2015\Projects\ENUMS\ENUMS\bin\Debug\ENUMS.exe.config
+d:\documents\visual studio 2015\Projects\ENUMS\ENUMS\bin\Debug\ENUMS.exe
+d:\documents\visual studio 2015\Projects\ENUMS\ENUMS\bin\Debug\ENUMS.pdb
+d:\documents\visual studio 2015\Projects\ENUMS\ENUMS\obj\Debug\ENUMS.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\Projects\ENUMS\ENUMS\obj\Debug\ENUMS.exe
+d:\documents\visual studio 2015\Projects\ENUMS\ENUMS\obj\Debug\ENUMS.pdb

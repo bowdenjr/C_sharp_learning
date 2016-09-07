@@ -1,0 +1,5 @@
+d:\documents\visual studio 2015\Projects\Calculator2\Calculator2\bin\Debug\Calculator2.exe.config
+d:\documents\visual studio 2015\Projects\Calculator2\Calculator2\bin\Debug\Calculator2.exe
+d:\documents\visual studio 2015\Projects\Calculator2\Calculator2\bin\Debug\Calculator2.pdb
+d:\documents\visual studio 2015\Projects\Calculator2\Calculator2\obj\Debug\Calculator2.exe
+d:\documents\visual studio 2015\Projects\Calculator2\Calculator2\obj\Debug\Calculator2.pdb

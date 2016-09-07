@@ -1,0 +1,5 @@
+d:\documents\visual studio 2015\Projects\Lists1\Lists1\bin\Debug\Lists1.exe.config
+d:\documents\visual studio 2015\Projects\Lists1\Lists1\bin\Debug\Lists1.exe
+d:\documents\visual studio 2015\Projects\Lists1\Lists1\bin\Debug\Lists1.pdb
+d:\documents\visual studio 2015\Projects\Lists1\Lists1\obj\Debug\Lists1.exe
+d:\documents\visual studio 2015\Projects\Lists1\Lists1\obj\Debug\Lists1.pdb
