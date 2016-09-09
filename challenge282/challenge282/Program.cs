@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Diagnostics;
 
 //https://www.reddit.com/r/dailyprogrammer/comments/5196fi/20160905_challenge_282_easy_unusual_bases/
 
@@ -24,12 +25,19 @@ namespace challenge282
             {
                 //Work out the size of the number
                 //Loop through fibonacci sum until the sourcenum is less than the fibonacci sum
-                while(sourcenum > sum)
-                {
+                //sourcenum example = 20
 
-                    Console.WriteLine(fibsum(20));
+                bool sumcheck = false;
+                int x = 0;
+
+                while(sumcheck == false)
+                { 
+                    Console.WriteLine(fibsum(x));
+                    if (sourcenum < fibsum(x))  {sumcheck = true;}
+                    x++;
                 }
-                    
+
+                Console.WriteLine("Final x = " + x);
 
             //Generate fibonacci numbers to the size
 
@@ -97,18 +105,17 @@ namespace challenge282
 
         }
 
-        public static double fibsum(int nth_sum) //sums to the nth term of the fib sequence
+        public static double fibsum(int targetsum) //sums to the nth term of the fib sequence
         {
             double a = 1;
             double b = 1;
             double c;
             double sum = 2;
             
-            for (int i = 1; i < nth_sum; i++)
+            for (int i = 1; i < targetsum; i++)
             {
                 c = a + b;
                 sum += c;
-                Console.WriteLine("c = " +c+" Sum = " +sum);
                 a = b;
                 b = c;
                 
