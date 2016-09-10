@@ -10,3 +10,6 @@ D:\Working Area\C#\challenge282\challenge282\obj\Debug\challenge282.pdb
 D:\Working Area\C#\challenge282\challenge282\bin\Debug\challenge282.exe
 D:\Working Area\C#\challenge282\challenge282\bin\Debug\challenge282.pdb
 D:\Working Area\C#\challenge282\challenge282\obj\Debug\challenge282.csprojResolveAssemblyReference.cache
+D:\Working Area\C#\challenge282\challenge282\obj\Debug\challenge282.Form1.resources
+D:\Working Area\C#\challenge282\challenge282\obj\Debug\challenge282.UserControl1.resources
+D:\Working Area\C#\challenge282\challenge282\obj\Debug\challenge282.csproj.GenerateResource.Cache

@@ -15,40 +15,53 @@ namespace challenge282
         static void Main(string[] args)
         {
 
-            start:
+        start:
             Console.WriteLine("Enter the starting base (either 10 or F)");
-            string mode = Convert.ToString(Console.ReadLine());
+            string mode = "10";// Convert.ToString(Console.ReadLine())
             Console.WriteLine("Enter the number to be converted");
-            double sourcenum = Convert.ToDouble(Console.ReadLine());
+            int intSourceNum = Convert.ToInt32(Console.ReadLine());
 
             if (mode == "10") //Converting from base10 to baseF
             {
-                //Work out the size of the number
-                //Loop through fibonacci sum until the sourcenum is less than the fibonacci sum
-                //sourcenum example = 20
-
+                //Work out the length of the fib-binary number, by looping through the fibonacci sum until the sourcenum is less than the fibonacci sum
+                
                 bool sumcheck = false;
                 int x = 0;
-
+                
                 while(sumcheck == false)
                 { 
-                    Console.WriteLine(fibsum(x));
-                    if (sourcenum < fibsum(x))  {sumcheck = true;}
-                    x++;
+                    if (intSourceNum < fibsum(x))
+                    { 
+                        sumcheck = true;
+                    } else
+                    {                    
+                        x++;
+                    }
                 }
 
-                Console.WriteLine("Final x = " + x);
+                //Work from the left (largest number, subtract the column header each time)
+                //Subtract the fibsum numbers, cycle through x until the variable sum == 0
+                int intSourceVary = intSourceNum - fibgen(x);
+                double dblOutput = 0;
 
-            //Generate fibonacci numbers to the size
+                //Will always start with a 1
+                x--;
+                dblOutput = Math.Pow(10, x);
 
+                while (intSourceVary > 0)
+                {
+                    //Loop through the remaining numbers until intSourceVary == 0
+                    if (fibgen(x) <= intSourceVary)
+                    {
+                        intSourceVary -= fibgen(x);
+                        dblOutput += Math.Pow(10, x-1);                        
+                    }
 
-
-
-            //allocate a 1 or a 0, start at highest number, then work down
-
-
-
-
+                    x--;
+                    
+                }
+                if(intSourceNum == 1) { dblOutput = 1;} //Done to catch the base case of 1, a better solution must exist
+                Console.WriteLine("Result = " + dblOutput.ToString("F99").TrimEnd("0".ToCharArray()));
 
 
 
@@ -83,34 +96,33 @@ namespace challenge282
 
 
             Console.ReadKey();
+            goto start;
         }
         
-        static void generatefib(int nth_max) // Generates the fibonacci numbers
+        static int fibgen(int target) // Generates the nth term of the fibonacci numbers
         {
-            double a = 1;
-            double b = 1;
-            double c;
-            int i = 0;
-
-
-            while(i<nth_max)
+            int a = 1;
+            int b = 1;
+            int c;
+            int i = 1;
+            
+            while (i < target)
             {
                 c = a + b;
-                Console.WriteLine(c);
                 a = b;
                 b = c;
                 i++;
             }
 
-
+            return b;
         }
 
-        public static double fibsum(int targetsum) //sums to the nth term of the fib sequence
+        static int fibsum(int targetsum) //sums to the nth term of the fib sequence
         {
-            double a = 1;
-            double b = 1;
-            double c;
-            double sum = 2;
+            int a = 1;
+            int b = 1;
+            int c;
+            int sum = 1;
             
             for (int i = 1; i < targetsum; i++)
             {
@@ -118,7 +130,6 @@ namespace challenge282
                 sum += c;
                 a = b;
                 b = c;
-                
             }
 
             return sum;
