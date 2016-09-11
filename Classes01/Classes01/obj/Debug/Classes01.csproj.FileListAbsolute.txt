@@ -3,3 +3,9 @@ d:\documents\visual studio 2015\Projects\Classes01\Classes01\bin\Debug\Classes01
 d:\documents\visual studio 2015\Projects\Classes01\Classes01\bin\Debug\Classes01.pdb
 d:\documents\visual studio 2015\Projects\Classes01\Classes01\obj\Debug\Classes01.exe
 d:\documents\visual studio 2015\Projects\Classes01\Classes01\obj\Debug\Classes01.pdb
+D:\Working Area\C#\Classes01\Classes01\bin\Debug\Classes01.exe.config
+D:\Working Area\C#\Classes01\Classes01\obj\Debug\Classes01.exe
+D:\Working Area\C#\Classes01\Classes01\obj\Debug\Classes01.pdb
+D:\Working Area\C#\Classes01\Classes01\bin\Debug\Classes01.exe
+D:\Working Area\C#\Classes01\Classes01\bin\Debug\Classes01.pdb
+D:\Working Area\C#\Classes01\Classes01\obj\Debug\Classes01.csprojResolveAssemblyReference.cache

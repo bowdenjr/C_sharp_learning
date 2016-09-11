@@ -78,6 +78,12 @@ namespace Classes01
             rabbit.Print();
 
             Console.WriteLine();
+
+            Animal dog2 = new Classes01.Animal("Ben", 13, 1);
+            dog2.Print();
+            Console.WriteLine();
+
+            Console.WriteLine();
             Console.WriteLine("Num of animals: " + Animal.Count);
 
             Console.ReadKey();
