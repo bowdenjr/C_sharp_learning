@@ -1,0 +1,5 @@
+C:\Users\897333\Documents\1.01 CODE\C_sharp_learning\Generics3\Generics3\bin\Debug\Generics3.exe.config
+C:\Users\897333\Documents\1.01 CODE\C_sharp_learning\Generics3\Generics3\bin\Debug\Generics3.exe
+C:\Users\897333\Documents\1.01 CODE\C_sharp_learning\Generics3\Generics3\bin\Debug\Generics3.pdb
+C:\Users\897333\Documents\1.01 CODE\C_sharp_learning\Generics3\Generics3\obj\Debug\Generics3.exe
+C:\Users\897333\Documents\1.01 CODE\C_sharp_learning\Generics3\Generics3\obj\Debug\Generics3.pdb

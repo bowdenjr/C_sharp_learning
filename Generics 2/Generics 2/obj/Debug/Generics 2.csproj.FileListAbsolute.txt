@@ -1,0 +1,5 @@
+C:\Users\897333\Documents\1.01 CODE\C_sharp_learning\Generics 2\Generics 2\bin\Debug\Generics 2.exe.config
+C:\Users\897333\Documents\1.01 CODE\C_sharp_learning\Generics 2\Generics 2\bin\Debug\Generics 2.exe
+C:\Users\897333\Documents\1.01 CODE\C_sharp_learning\Generics 2\Generics 2\bin\Debug\Generics 2.pdb
+C:\Users\897333\Documents\1.01 CODE\C_sharp_learning\Generics 2\Generics 2\obj\Debug\Generics 2.exe
+C:\Users\897333\Documents\1.01 CODE\C_sharp_learning\Generics 2\Generics 2\obj\Debug\Generics 2.pdb

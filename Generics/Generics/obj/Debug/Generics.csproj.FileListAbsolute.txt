@@ -1,1 +1,6 @@
 C:\Users\897333\Documents\1.01 CODE\C_sharp_learning\Generics\Generics\bin\Debug\Generics.exe.config
+C:\Users\897333\Documents\1.01 CODE\C_sharp_learning\Generics\Generics\bin\Debug\Generics.exe
+C:\Users\897333\Documents\1.01 CODE\C_sharp_learning\Generics\Generics\bin\Debug\Generics.pdb
+C:\Users\897333\Documents\1.01 CODE\C_sharp_learning\Generics\Generics\obj\Debug\Generics.csprojResolveAssemblyReference.cache
+C:\Users\897333\Documents\1.01 CODE\C_sharp_learning\Generics\Generics\obj\Debug\Generics.exe
+C:\Users\897333\Documents\1.01 CODE\C_sharp_learning\Generics\Generics\obj\Debug\Generics.pdb
