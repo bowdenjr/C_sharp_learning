@@ -9,3 +9,6 @@ D:\Working Area\C#\Classes01\Classes01\obj\Debug\Classes01.pdb
 D:\Working Area\C#\Classes01\Classes01\bin\Debug\Classes01.exe
 D:\Working Area\C#\Classes01\Classes01\bin\Debug\Classes01.pdb
 D:\Working Area\C#\Classes01\Classes01\obj\Debug\Classes01.csprojResolveAssemblyReference.cache
+C:\Users\897333\Documents\1.01 CODE\C_sharp_learning\Classes01\Classes01\bin\Debug\Classes01.exe.config
+C:\Users\897333\Documents\1.01 CODE\C_sharp_learning\Classes01\Classes01\obj\Debug\Classes01.exe
+C:\Users\897333\Documents\1.01 CODE\C_sharp_learning\Classes01\Classes01\obj\Debug\Classes01.pdb

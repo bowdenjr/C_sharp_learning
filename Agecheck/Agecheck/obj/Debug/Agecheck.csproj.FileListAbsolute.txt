@@ -3,3 +3,6 @@ d:\documents\visual studio 2015\Projects\Agecheck\Agecheck\bin\Debug\Agecheck.ex
 d:\documents\visual studio 2015\Projects\Agecheck\Agecheck\bin\Debug\Agecheck.pdb
 d:\documents\visual studio 2015\Projects\Agecheck\Agecheck\obj\Debug\Agecheck.exe
 d:\documents\visual studio 2015\Projects\Agecheck\Agecheck\obj\Debug\Agecheck.pdb
+C:\Users\897333\Documents\1.01 CODE\C_sharp_learning\Agecheck\Agecheck\bin\Debug\Agecheck.exe.config
+C:\Users\897333\Documents\1.01 CODE\C_sharp_learning\Agecheck\Agecheck\obj\Debug\Agecheck.exe
+C:\Users\897333\Documents\1.01 CODE\C_sharp_learning\Agecheck\Agecheck\obj\Debug\Agecheck.pdb

@@ -15,27 +15,27 @@ namespace Properties
         //https://www.youtube.com/watch?v=gvQziNULkdY
         class Player
         {
-            private int _health = 100; //actual health, private so we can't access
-            public int health 
+            private int _inthealth = 100; //actual health, private so we can't access
+            public int inthealth 
             {
                 get //callable, but can't set to it, can only get ie it's read-only
                 {
-                    return _health;
+                    return _inthealth;
                 }
 
                 set //keeps _health in the range 0 to 100
                 { 
                     if (value <= 0)
                     {
-                        _health = 0;
+                        _inthealth = 0;
                     }
                     else if(value >=100)
                     {
-                        _health = 100;
+                        _inthealth = 100;
                     }
                     else
                     {
-                        _health = value;
+                        _inthealth = value;
                     }
                 }
             }
@@ -43,21 +43,27 @@ namespace Properties
 
             public void Damage (int _dmg)
             {
-                _health -= _dmg;
-            }            
+                inthealth -= _dmg;
+            }
+
+
+            public void Heal(int _heal)
+            {
+                inthealth += _heal;
+            }
         }
 
 
         static void Main(string[] args)
         {
             Player Jon = new Player();
-            Console.WriteLine(Jon.health);
-            Jon.health -= 200;
-            Console.WriteLine(Jon.health);
-            Jon.health += 400;
-            Console.WriteLine(Jon.health);
-            Jon.health = 50;
-            Console.WriteLine(Jon.health);
+            Console.WriteLine("Starting health = " +Jon.inthealth);
+            Jon.Damage(200);
+            Console.WriteLine("Take 200 damage = " +Jon.inthealth);
+            Jon.Heal(400);
+            Console.WriteLine("Heal 400 = " +Jon.inthealth);
+            Jon.Damage(30);
+            Console.WriteLine("Take small hit = " +Jon.inthealth);
 
 
             Console.ReadKey();
