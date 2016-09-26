@@ -1,0 +1,9 @@
+D:\Working Area\C#\Random_charting\Random_charting\bin\Debug\Random_charting.exe.config
+D:\Working Area\C#\Random_charting\Random_charting\obj\Debug\Random_charting.csprojResolveAssemblyReference.cache
+D:\Working Area\C#\Random_charting\Random_charting\obj\Debug\Random_charting.Form1.resources
+D:\Working Area\C#\Random_charting\Random_charting\obj\Debug\Random_charting.Properties.Resources.resources
+D:\Working Area\C#\Random_charting\Random_charting\obj\Debug\Random_charting.csproj.GenerateResource.Cache
+D:\Working Area\C#\Random_charting\Random_charting\bin\Debug\Random_charting.exe
+D:\Working Area\C#\Random_charting\Random_charting\bin\Debug\Random_charting.pdb
+D:\Working Area\C#\Random_charting\Random_charting\obj\Debug\Random_charting.exe
+D:\Working Area\C#\Random_charting\Random_charting\obj\Debug\Random_charting.pdb

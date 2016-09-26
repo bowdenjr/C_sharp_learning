@@ -6,3 +6,8 @@ d:\documents\visual studio 2015\Projects\Lists1\Lists1\obj\Debug\Lists1.pdb
 C:\Users\897333\Documents\1.01 CODE\C_sharp_learning\Lists1\Lists1\bin\Debug\Lists1.exe.config
 C:\Users\897333\Documents\1.01 CODE\C_sharp_learning\Lists1\Lists1\obj\Debug\Lists1.exe
 C:\Users\897333\Documents\1.01 CODE\C_sharp_learning\Lists1\Lists1\obj\Debug\Lists1.pdb
+D:\Working Area\C#\Lists1\Lists1\bin\Debug\Lists1.exe.config
+D:\Working Area\C#\Lists1\Lists1\obj\Debug\Lists1.exe
+D:\Working Area\C#\Lists1\Lists1\obj\Debug\Lists1.pdb
+D:\Working Area\C#\Lists1\Lists1\bin\Debug\Lists1.exe
+D:\Working Area\C#\Lists1\Lists1\bin\Debug\Lists1.pdb

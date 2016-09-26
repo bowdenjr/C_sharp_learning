@@ -17,6 +17,7 @@ namespace Lists1
             numbers.Add(13);
             numbers.Add(4);
             numbers.Add(8);
+            numbers.Add(3);
 
             for (int i = 0; i < numbers.Count; i++)
             { 
@@ -27,9 +28,9 @@ namespace Lists1
 
             Console.WriteLine();
 
-            numbers.Remove(3);
+            numbers.Remove(3); //Removes the number in brackets
 
-            numbers.RemoveAt(1);
+            numbers.RemoveAt(0); //Removes the number at this index
 
             for (int i = 0; i < numbers.Count; i++)
             {
