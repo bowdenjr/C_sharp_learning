@@ -3,3 +3,8 @@ d:\documents\visual studio 2015\Projects\whileloop1\whileloop1\bin\Debug\whilelo
 d:\documents\visual studio 2015\Projects\whileloop1\whileloop1\bin\Debug\whileloop1.pdb
 d:\documents\visual studio 2015\Projects\whileloop1\whileloop1\obj\Debug\whileloop1.exe
 d:\documents\visual studio 2015\Projects\whileloop1\whileloop1\obj\Debug\whileloop1.pdb
+D:\Working Area\C#\whileloop1\whileloop1\bin\Debug\whileloop1.exe.config
+D:\Working Area\C#\whileloop1\whileloop1\obj\Debug\whileloop1.exe
+D:\Working Area\C#\whileloop1\whileloop1\obj\Debug\whileloop1.pdb
+D:\Working Area\C#\whileloop1\whileloop1\bin\Debug\whileloop1.exe
+D:\Working Area\C#\whileloop1\whileloop1\bin\Debug\whileloop1.pdb

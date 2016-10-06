@@ -24,6 +24,7 @@ namespace whileloop1
             }
 
             Console.WriteLine("It took Tom " + numberofattempts + " attempts to roll a six.");
+            Console.ReadKey();
 
         }
     }
