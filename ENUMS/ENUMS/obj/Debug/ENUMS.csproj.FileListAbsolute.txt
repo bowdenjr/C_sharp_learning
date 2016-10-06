@@ -4,3 +4,6 @@ d:\documents\visual studio 2015\Projects\ENUMS\ENUMS\bin\Debug\ENUMS.pdb
 d:\documents\visual studio 2015\Projects\ENUMS\ENUMS\obj\Debug\ENUMS.csprojResolveAssemblyReference.cache
 d:\documents\visual studio 2015\Projects\ENUMS\ENUMS\obj\Debug\ENUMS.exe
 d:\documents\visual studio 2015\Projects\ENUMS\ENUMS\obj\Debug\ENUMS.pdb
+C:\Users\897333\Documents\1.01 CODE\C_sharp_learning\ENUMS\ENUMS\bin\Debug\ENUMS.exe.config
+C:\Users\897333\Documents\1.01 CODE\C_sharp_learning\ENUMS\ENUMS\obj\Debug\ENUMS.exe
+C:\Users\897333\Documents\1.01 CODE\C_sharp_learning\ENUMS\ENUMS\obj\Debug\ENUMS.pdb

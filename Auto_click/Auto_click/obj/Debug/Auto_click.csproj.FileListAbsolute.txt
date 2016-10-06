@@ -18,3 +18,16 @@ D:\Working Area\C#\Auto_click\Auto_click\bin\Debug\Auto_click.exe.manifest
 D:\Working Area\C#\Auto_click\Auto_click\bin\Debug\Auto_click.application
 D:\Working Area\C#\Auto_click\Auto_click\obj\Debug\Auto_click.exe.manifest
 D:\Working Area\C#\Auto_click\Auto_click\obj\Debug\Auto_click.application
+C:\Users\897333\Documents\1.01 CODE\C_sharp_learning\Auto_click\Auto_click\bin\Debug\Auto_click.exe.config
+C:\Users\897333\Documents\1.01 CODE\C_sharp_learning\Auto_click\Auto_click\obj\Debug\Auto_click.exe
+C:\Users\897333\Documents\1.01 CODE\C_sharp_learning\Auto_click\Auto_click\obj\Debug\Auto_click.pdb
+C:\Users\897333\Documents\1.01 CODE\C_sharp_learning\Auto_click\Auto_click\bin\Debug\Auto_click.exe.manifest
+C:\Users\897333\Documents\1.01 CODE\C_sharp_learning\Auto_click\Auto_click\bin\Debug\Auto_click.application
+C:\Users\897333\Documents\1.01 CODE\C_sharp_learning\Auto_click\Auto_click\bin\Debug\Auto_click.exe
+C:\Users\897333\Documents\1.01 CODE\C_sharp_learning\Auto_click\Auto_click\bin\Debug\Auto_click.pdb
+C:\Users\897333\Documents\1.01 CODE\C_sharp_learning\Auto_click\Auto_click\obj\Debug\Auto_click.csprojResolveAssemblyReference.cache
+C:\Users\897333\Documents\1.01 CODE\C_sharp_learning\Auto_click\Auto_click\obj\Debug\Auto_click.Form1.resources
+C:\Users\897333\Documents\1.01 CODE\C_sharp_learning\Auto_click\Auto_click\obj\Debug\Auto_click.Properties.Resources.resources
+C:\Users\897333\Documents\1.01 CODE\C_sharp_learning\Auto_click\Auto_click\obj\Debug\Auto_click.csproj.GenerateResource.Cache
+C:\Users\897333\Documents\1.01 CODE\C_sharp_learning\Auto_click\Auto_click\obj\Debug\Auto_click.exe.manifest
+C:\Users\897333\Documents\1.01 CODE\C_sharp_learning\Auto_click\Auto_click\obj\Debug\Auto_click.application

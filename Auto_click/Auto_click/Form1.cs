@@ -29,7 +29,7 @@ namespace Auto_click
             {
                 await Task.Delay(2000);
                 Application.DoEvents();
-                SendKeys.Send("{^}");
+                SendKeys.Send("^");
 
             }
         }
