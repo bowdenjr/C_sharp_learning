@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 
 namespace Arrays1
 {
+
+    //https://youtu.be/RQ0JHMGiobo?list=PLPV2KyIb3jR6ZkG8gZwJYSjnXxmfPAl51
     class Program
     {
         static void Main(string[] args)

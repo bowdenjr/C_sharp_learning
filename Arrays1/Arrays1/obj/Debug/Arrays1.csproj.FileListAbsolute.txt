@@ -3,3 +3,9 @@ d:\documents\visual studio 2015\Projects\Arrays1\Arrays1\bin\Debug\Arrays1.exe
 d:\documents\visual studio 2015\Projects\Arrays1\Arrays1\bin\Debug\Arrays1.pdb
 d:\documents\visual studio 2015\Projects\Arrays1\Arrays1\obj\Debug\Arrays1.exe
 d:\documents\visual studio 2015\Projects\Arrays1\Arrays1\obj\Debug\Arrays1.pdb
+C:\Users\897333\Documents\1.01 CODE\C_sharp_learning\Arrays1\Arrays1\bin\Debug\Arrays1.exe.config
+C:\Users\897333\Documents\1.01 CODE\C_sharp_learning\Arrays1\Arrays1\obj\Debug\Arrays1.exe
+C:\Users\897333\Documents\1.01 CODE\C_sharp_learning\Arrays1\Arrays1\obj\Debug\Arrays1.pdb
+C:\Users\897333\Documents\1.01 CODE\C_sharp_learning\Arrays1\Arrays1\bin\Debug\Arrays1.exe
+C:\Users\897333\Documents\1.01 CODE\C_sharp_learning\Arrays1\Arrays1\bin\Debug\Arrays1.pdb
+C:\Users\897333\Documents\1.01 CODE\C_sharp_learning\Arrays1\Arrays1\obj\Debug\Arrays1.csprojResolveAssemblyReference.cache
