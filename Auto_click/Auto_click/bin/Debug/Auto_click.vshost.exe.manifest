@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Auto_click.exe" size="10176">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Auto_click.exe" size="9728">
       <assemblyIdentity name="Auto_click" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>2JzWfkbVsx27D+MVfEgXPdhS2doBIJQqd/YrlvzlsIs=</dsig:DigestValue>
+        <dsig:DigestValue>CW2KcrjOf8AVidAcol+0+ABDFZlZpFwjvRYMZZ9b1ew=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

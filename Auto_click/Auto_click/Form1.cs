@@ -12,16 +12,15 @@ namespace Auto_click
 {
     public partial class Form1 : Form
     {
-
         bool blnClickOn = false;
 
         public Form1()
         {
             InitializeComponent();
-            statusbox.BackColor = Color.Red;
-            statusbox.Text = "OFF";
+            onbutton.BackColor = Color.Green;
+            offbutton.BackColor = Color.Gray;
+            offbutton.Enabled = false;
         }
-
 
         async public void clicker()
         {
@@ -30,26 +29,26 @@ namespace Auto_click
                 await Task.Delay(2000);
                 Application.DoEvents();
                 SendKeys.Send("^");
-
             }
         }
 
         private void onbutton_Click(object sender, EventArgs e)
         {
             blnClickOn = true;
-            statusbox.BackColor = Color.Green;
-            statusbox.Text = "ON";
+            offbutton.Enabled = true;
+            onbutton.BackColor = Color.Gray;
+            offbutton.BackColor = Color.DarkRed;
+            onbutton.Enabled = false;
             clicker();
-
         }
 
         private void offbutton_Click(object sender, EventArgs e)
         {
             blnClickOn = false;
-            statusbox.BackColor = Color.Red;
-            statusbox.Text = "OFF";
-
-
+            onbutton.Enabled = true;
+            onbutton.BackColor = Color.Green;
+            offbutton.BackColor = Color.Gray;
+            offbutton.Enabled = false;
         }
 
     }
