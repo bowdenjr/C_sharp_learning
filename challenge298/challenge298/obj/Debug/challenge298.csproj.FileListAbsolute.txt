@@ -1,0 +1,6 @@
+C:\Users\897333\Documents\1.01 CODE\C_sharp_learning\challenge298\challenge298\bin\Debug\challenge298.exe.config
+C:\Users\897333\Documents\1.01 CODE\C_sharp_learning\challenge298\challenge298\bin\Debug\challenge298.exe
+C:\Users\897333\Documents\1.01 CODE\C_sharp_learning\challenge298\challenge298\bin\Debug\challenge298.pdb
+C:\Users\897333\Documents\1.01 CODE\C_sharp_learning\challenge298\challenge298\obj\Debug\challenge298.csprojResolveAssemblyReference.cache
+C:\Users\897333\Documents\1.01 CODE\C_sharp_learning\challenge298\challenge298\obj\Debug\challenge298.exe
+C:\Users\897333\Documents\1.01 CODE\C_sharp_learning\challenge298\challenge298\obj\Debug\challenge298.pdb
