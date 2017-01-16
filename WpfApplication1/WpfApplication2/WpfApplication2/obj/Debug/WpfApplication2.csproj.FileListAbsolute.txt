@@ -1,0 +1,13 @@
+C:\Users\897333\Documents\1.01 CODE\csv_converter\WpfApplication2\WpfApplication2\bin\Debug\WpfApplication2.exe.config
+C:\Users\897333\Documents\1.01 CODE\csv_converter\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.csprojResolveAssemblyReference.cache
+C:\Users\897333\Documents\1.01 CODE\csv_converter\WpfApplication2\WpfApplication2\obj\Debug\MainWindow.baml
+C:\Users\897333\Documents\1.01 CODE\csv_converter\WpfApplication2\WpfApplication2\obj\Debug\MainWindow.g.cs
+C:\Users\897333\Documents\1.01 CODE\csv_converter\WpfApplication2\WpfApplication2\obj\Debug\App.g.cs
+C:\Users\897333\Documents\1.01 CODE\csv_converter\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.cache
+C:\Users\897333\Documents\1.01 CODE\csv_converter\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.g.resources
+C:\Users\897333\Documents\1.01 CODE\csv_converter\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.Properties.Resources.resources
+C:\Users\897333\Documents\1.01 CODE\csv_converter\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.csproj.GenerateResource.Cache
+C:\Users\897333\Documents\1.01 CODE\csv_converter\WpfApplication2\WpfApplication2\bin\Debug\WpfApplication2.exe
+C:\Users\897333\Documents\1.01 CODE\csv_converter\WpfApplication2\WpfApplication2\bin\Debug\WpfApplication2.pdb
+C:\Users\897333\Documents\1.01 CODE\csv_converter\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.exe
+C:\Users\897333\Documents\1.01 CODE\csv_converter\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.pdb

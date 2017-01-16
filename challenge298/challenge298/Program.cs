@@ -11,7 +11,7 @@ namespace challenge298
     {
         static void Main(string[] args)
         {
-
+            #region Introduction
             /* [2017-01-09] Challenge #298 [Hard] Functional Maze solving
              * 
              * Borrowing from adventofcode.com, http://adventofcode.com/2016/day/24, solve the following maze returning the path (length) visiting nodes labelled 1 to 7 starting from 0. 
@@ -58,30 +58,35 @@ namespace challenge298
             
              * This is a fairly large maze, and you may wish to resort to one of the main graph algorithms that minimize how often a node cost is calculated. Namely Astar... though there are other options.
             */
+            #endregion
 
+            #region STEP 1
             // 1. Import the maaze into an array
-
-            // Want each node to be a data point in the array, it's 37 rows by 179 cols
-            // Either way want to avoid it being static (ie avoid using 37 and 179), want it to know when to start the next row
 
             string mazefile = System.IO.Directory.GetParent(Directory.GetCurrentDirectory()).Parent.FullName + "\\maze.txt";
                          
             List<char[]> lines = new List<char[]>(); //create a new list which is made up of character arrays
-            foreach (string line in File.ReadLines(@mazefile)) //loop through each line in the txt file
+            foreach (string line in File.ReadLines(mazefile)) //loop through each line in the txt file
             {
                 lines.Add(line.ToCharArray()); //add each line to the list (as a char array)
             }
             char[][] maze = lines.ToArray(); //covert the list to a jagged array
 
+            Console.WriteLine(maze[1][1]); //output an example point on the maze
+            
             // Learning note - in doing the above block I found a lot of examples that used the ToCharArray example but most of them didn't do it for 2D arrays. 
             // Other examples usined stringreader and Parse, but these didn't work because there is no separator
-            
-
+            #endregion
 
 
             // 2. Set up the rules for the "patherfinder player" - use a class?
             // ie go up, down, left, right
             // what to do when hit #, what to do when hit
+
+
+
+
+
 
             // 3. Run algorithm for deducing the quickest route
             // If there is a . in any of the adjacent nodes, add this to the "open set" to explore

@@ -1,0 +1,6 @@
+C:\Users\897333\Documents\1.01 CODE\C_sharp_learning\Importing CSVs\Importing CSVs\bin\Debug\Importing CSVs.exe.config
+C:\Users\897333\Documents\1.01 CODE\C_sharp_learning\Importing CSVs\Importing CSVs\bin\Debug\Importing CSVs.exe
+C:\Users\897333\Documents\1.01 CODE\C_sharp_learning\Importing CSVs\Importing CSVs\bin\Debug\Importing CSVs.pdb
+C:\Users\897333\Documents\1.01 CODE\C_sharp_learning\Importing CSVs\Importing CSVs\obj\Debug\Importing CSVs.csprojResolveAssemblyReference.cache
+C:\Users\897333\Documents\1.01 CODE\C_sharp_learning\Importing CSVs\Importing CSVs\obj\Debug\Importing CSVs.exe
+C:\Users\897333\Documents\1.01 CODE\C_sharp_learning\Importing CSVs\Importing CSVs\obj\Debug\Importing CSVs.pdb
