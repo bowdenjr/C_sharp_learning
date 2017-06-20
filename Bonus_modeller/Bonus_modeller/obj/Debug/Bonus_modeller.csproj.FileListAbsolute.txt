@@ -1,0 +1,13 @@
+c:\users\897333\Documents\1.01 CODE\C_sharp_learning\Bonus_modeller\Bonus_modeller\bin\Debug\Bonus_modeller.exe.config
+c:\users\897333\Documents\1.01 CODE\C_sharp_learning\Bonus_modeller\Bonus_modeller\bin\Debug\Bonus_modeller.exe
+c:\users\897333\Documents\1.01 CODE\C_sharp_learning\Bonus_modeller\Bonus_modeller\bin\Debug\Bonus_modeller.pdb
+c:\users\897333\Documents\1.01 CODE\C_sharp_learning\Bonus_modeller\Bonus_modeller\obj\Debug\Bonus_modeller.csprojResolveAssemblyReference.cache
+c:\users\897333\Documents\1.01 CODE\C_sharp_learning\Bonus_modeller\Bonus_modeller\obj\Debug\MainWindow.baml
+c:\users\897333\Documents\1.01 CODE\C_sharp_learning\Bonus_modeller\Bonus_modeller\obj\Debug\MainWindow.g.cs
+c:\users\897333\Documents\1.01 CODE\C_sharp_learning\Bonus_modeller\Bonus_modeller\obj\Debug\App.g.cs
+c:\users\897333\Documents\1.01 CODE\C_sharp_learning\Bonus_modeller\Bonus_modeller\obj\Debug\Bonus_modeller_MarkupCompile.cache
+c:\users\897333\Documents\1.01 CODE\C_sharp_learning\Bonus_modeller\Bonus_modeller\obj\Debug\Bonus_modeller.g.resources
+c:\users\897333\Documents\1.01 CODE\C_sharp_learning\Bonus_modeller\Bonus_modeller\obj\Debug\Bonus_modeller.Properties.Resources.resources
+c:\users\897333\Documents\1.01 CODE\C_sharp_learning\Bonus_modeller\Bonus_modeller\obj\Debug\Bonus_modeller.csproj.GenerateResource.Cache
+c:\users\897333\Documents\1.01 CODE\C_sharp_learning\Bonus_modeller\Bonus_modeller\obj\Debug\Bonus_modeller.exe
+c:\users\897333\Documents\1.01 CODE\C_sharp_learning\Bonus_modeller\Bonus_modeller\obj\Debug\Bonus_modeller.pdb

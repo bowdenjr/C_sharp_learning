@@ -1,0 +1,6 @@
+c:\users\897333\Documents\1.01 CODE\C_sharp_learning\Floating point precision investigation\Floating point precision investigation\bin\Debug\Floating point precision investigation.exe.config
+c:\users\897333\Documents\1.01 CODE\C_sharp_learning\Floating point precision investigation\Floating point precision investigation\bin\Debug\Floating point precision investigation.exe
+c:\users\897333\Documents\1.01 CODE\C_sharp_learning\Floating point precision investigation\Floating point precision investigation\bin\Debug\Floating point precision investigation.pdb
+c:\users\897333\Documents\1.01 CODE\C_sharp_learning\Floating point precision investigation\Floating point precision investigation\obj\Debug\Floating point precision investigation.csprojResolveAssemblyReference.cache
+c:\users\897333\Documents\1.01 CODE\C_sharp_learning\Floating point precision investigation\Floating point precision investigation\obj\Debug\Floating point precision investigation.exe
+c:\users\897333\Documents\1.01 CODE\C_sharp_learning\Floating point precision investigation\Floating point precision investigation\obj\Debug\Floating point precision investigation.pdb

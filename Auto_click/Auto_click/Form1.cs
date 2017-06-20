@@ -26,7 +26,7 @@ namespace Auto_click
         {
             while (blnClickOn == true)
             {
-                await Task.Delay(2000);
+                await Task.Delay(60000); // Delay one minute
                 Application.DoEvents();
                 SendKeys.Send("^");
             }

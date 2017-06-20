@@ -1,0 +1,10 @@
+﻿<Window x:Class="Bonus_modeller.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="174.335" Width="281.464">
+    <Grid>
+        <Button x:Name="btnShowConsole" Content="Show Console" HorizontalAlignment="Left" Margin="53,10,0,0" VerticalAlignment="Top" Width="151" Height="44" Click="btnShowConsole_Click"/>
+        <Button x:Name="btnHideConsole" Content="Hide Console" HorizontalAlignment="Left" Margin="53,59,0,0" VerticalAlignment="Top" Width="151" Height="44" Click="btnHideConsole_Click"/>
+
+    </Grid>
+</Window>

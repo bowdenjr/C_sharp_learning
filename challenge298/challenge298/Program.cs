@@ -72,7 +72,7 @@ namespace challenge298
             }
             char[][] maze = lines.ToArray(); //covert the list to a jagged array
 
-            Console.WriteLine(maze[1][1]); //output an example point on the maze
+            Console.WriteLine(maze[][]); //output an example point on the maze
             
             // Learning note - in doing the above block I found a lot of examples that used the ToCharArray example but most of them didn't do it for 2D arrays. 
             // Other examples usined stringreader and Parse, but these didn't work because there is no separator
