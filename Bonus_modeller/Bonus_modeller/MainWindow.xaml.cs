@@ -47,6 +47,7 @@ namespace Bonus_modeller
 
 
         // Objective of this tool: To generate a visal normal distribution of expected bonus, marking P levels
+        // IMPORTANT, there should be a CSV read file process here so the model can be used with privacy of people's figures
         // Inputs: Assurance bonus pool, AS performance, My performance (TD/HP/V/C), Historic bonuses and performance
         // Max bonus, Smoothing, Bottom up approach, Make use of 25% max for Manager
         // Calculations: 
